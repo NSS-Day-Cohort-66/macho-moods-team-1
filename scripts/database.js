@@ -90,3 +90,9 @@ const database = [
         ]
     }
 ];
+
+
+
+export const getmoods = => {
+    return database.map(????? => ({...?????}))
+}
